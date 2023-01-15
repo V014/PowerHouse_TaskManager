@@ -40,3 +40,6 @@ A few kernal classes was called to pull required data, a couple of charts and pr
 <p>This tab shows the remaining battery life and other importat details to know about your battery.</p>
 <img src="https://github.com/V014/PowerHouse/blob/main/screenshots/powerhouse-battery.png" alt="image of app showing battery statistics"/>
 
+## GPU Info
+<p>Since this was prematurelly added, the gpu tab will show static information and evovle over updates.</p>
+<img src="https://github.com/V014/PowerHouse/blob/main/screenshots/powerhouse-gpu.png" alt="image of app showing gpu image"/>
