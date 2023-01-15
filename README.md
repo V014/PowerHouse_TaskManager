@@ -5,7 +5,8 @@ A few kernal classes was called to pull required data, a couple of charts and pr
 
 ## Fixes & Bugs
 - set process refresh to 30 seconds.
-- the app throws an exception when there is an influx on the read counter 
+- the app throws an exception when there is an influx on the read counter (fixed by ignoring influx)
+- some reading might be too large to understand
 
 ## Updates
 - added image icons on most tabs
@@ -13,6 +14,7 @@ A few kernal classes was called to pull required data, a couple of charts and pr
 - the app will remeber the selected process on refresh
 - added a virtual memory reading on the ram tab
 - The app is now not sizeable
+- added GPU readings (stilling tweaking)
 
 ## System information
 <p>The operating system deaileds are displayed to give you an idea of the software installed on the hardware</p>
