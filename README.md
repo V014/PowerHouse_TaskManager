@@ -1,4 +1,4 @@
-# PowerHouse_TaskManager 2.1
+# PowerHouse_TaskManager 2.2
 This is the user base repository for enthusiasts ready to test their machines and know more about their hardware.
 This windows task manager shows the CPU, RAM, disk usage powered by .Net C# and Bunifu Ui
 A few kernal classes was called to pull required data, a couple of charts and progress bars
